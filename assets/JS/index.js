@@ -1,6 +1,7 @@
 import getLocation from "./getLocation.js"
 
 const root = document.querySelector('#root')
+
 //select elements from index.html
 const submit = document.querySelector('#submit')
 const userSelect = document.querySelector('#business')
